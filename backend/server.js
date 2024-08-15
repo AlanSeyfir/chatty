@@ -7,12 +7,11 @@ import connectToMongoDB from './db/connectToMongoDB.js';
 import authRoutes from './routes/auth.routes.js';
 import messageRoutes from './routes/message.routes.js';
 import userRoutes from './routes/user.routes.js';
-
 import { app, server } from './socket/socket.js';
 
-const PORT = process.env.PORT || 5000;
-
 dotenv.config();
+
+const PORT = process.env.PORT || 5000;
 
 //MIDDLEWARES - ORDER MATTERS
 app.use(express.json());
