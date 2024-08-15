@@ -1,6 +1,6 @@
 # Chatty app - Fullstack app
 
-![IMAGE CHATTY APP](image.png)
+![IMAGE CHATTY APP](/README%20assets/image.png)
 
 ### Built With
 
@@ -24,6 +24,7 @@
 " />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
 " />
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
 " />
 
