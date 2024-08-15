@@ -3,7 +3,7 @@
 #### NICE TO HAVE
 
 - Enhanced UI
--
+- Add emojis instead of `Windows + .`
 
 #### Bugs
 
