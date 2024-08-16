@@ -24,7 +24,7 @@ Some Features:
 
 - Authentication && Authorization with JWT
 - Real-time messaging with Socket.io
-- Deployment using render
+- Deployment using render (It could take a little bit to start, it's the free tier)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
