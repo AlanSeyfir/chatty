@@ -2,6 +2,10 @@
 
 ![IMAGE CHATTY APP](/README%20assets/image.png)
 
+### Video to see the app
+Click the image to see the video. <br>
+[![CHATTY FULLSTACK APP THUMBNAIL](https://img.youtube.com/vi/8-noLYlnIgw/0.jpg)](https://www.youtube.com/watch?v=8-noLYlnIgw)
+
 ### Built With
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
