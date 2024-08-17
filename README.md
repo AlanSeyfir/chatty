@@ -3,7 +3,7 @@
 ![IMAGE CHATTY APP](/README%20assets/image.png)
 
 ### Video to see the app
-Click the image to see the video. <br>
+Click the image to see the video or (Link to video)[https://youtu.be/8-noLYlnIgw]. <br>
 [![CHATTY FULLSTACK APP THUMBNAIL](https://img.youtube.com/vi/8-noLYlnIgw/0.jpg)](https://www.youtube.com/watch?v=8-noLYlnIgw)
 
 ### Built With
